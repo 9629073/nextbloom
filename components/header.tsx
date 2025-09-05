@@ -26,7 +26,7 @@ export function Header() {
               href="/collections"
               className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
             >
-              Collections
+              Categories
             </Link>
             <Link
               href="/rings"
